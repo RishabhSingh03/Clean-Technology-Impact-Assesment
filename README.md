@@ -35,6 +35,3 @@ Run data_analysis.py to generate key visualizations.
 Import ccus_projects.csv into Power BI to explore the dashboard.
 
 
-
-Incorporate machine learning models to predict CCUS adoption trends.
-Add real-world financial analysis 
