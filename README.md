@@ -34,10 +34,7 @@ pip install pandas matplotlib seaborn
 Run data_analysis.py to generate key visualizations.
 Import ccus_projects.csv into Power BI to explore the dashboard.
 
-The adoption of CCUS projects has significantly increased post-2020.
-Full-chain CCUS projects provide the highest GHG reduction potential.
-Some countries are leading in CCUS adoption, while others are lagging.
-📌 Future Improvements
+
 
 Incorporate machine learning models to predict CCUS adoption trends.
-Add real-world financial analysis for investment feasibility.-
+Add real-world financial analysis 
